@@ -1,24 +1,15 @@
-# README
+# Rails Girls More! に参加してきました。(2018/09/29 土)
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## 今日やった内容
+[Rails Girls ガイド](http://railsgirls.jp/)の8章、Devise で認証機能を追加まで終わりました。
 
-Things you may want to cover:
+## 目次
+1. アプリケーションを作る
+2. HTML & CSS を使ってデザインしてみよう(Bootstrap)
+3. 写真のロードを早くするために、適切な写真のリサイズ機能を追加しましょう。(Carrierwave)
+4. Deviseによる認証(ログイン・登録機能)を追加してみましょう。
+    * あなたのアプリにコメントできるようにしましょう。
+5. あなたのアプリをインターネットに公開しましょう。
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+## デプロイ先
+[https://calm-castle-11569.herokuapp.com/](https://calm-castle-11569.herokuapp.com/)
