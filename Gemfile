@@ -13,6 +13,9 @@ gem 'carrierwave'
 # Carrierwave を使ってサムネイルを作ってみよう で追加した
 gem 'mini_magick', '4.8.0'
 
+# Devise で認証機能を追加 で追加
+gem 'devise'
+
 # Use Puma as the app server
 gem 'puma', '~> 3.11'
 # Use SCSS for stylesheets

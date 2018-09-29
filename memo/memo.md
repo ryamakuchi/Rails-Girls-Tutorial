@@ -115,3 +115,16 @@ pathを知りたいときは、 `/rails/info/routes` にアクセスすると、
 
 ## 写真のロードを早くするために、適切な写真のリサイズ機能を追加しましょう。(Carrierwave)
 mini_magickを使って、画像をアップロードするとサムネイルが表示されるようになりました。
+
+
+
+## Devise で認証機能を追加
+Gemfile →発注書の役割
+Gemfile.lock →納品書の役割
+
+`before_action :authenticate_user!`
+末尾に!がついているとき
+* 破壊的か
+* 例外を投げるか
+* ノリかw
+
