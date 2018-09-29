@@ -10,6 +10,8 @@ gem 'sqlite3'
 
 # 4. 写真アップロード機能を追加する で追加した
 gem 'carrierwave'
+# Carrierwave を使ってサムネイルを作ってみよう で追加した
+gem 'mini_magick', '4.8.0'
 
 # Use Puma as the app server
 gem 'puma', '~> 3.11'
